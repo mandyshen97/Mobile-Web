@@ -1,0 +1,13 @@
+1.建立文件夹：css js images 
+2.建立文件：index.html, base.css, index.css, common.js, index.js
+3.将css文件和js文件导入index.html中
+
+在写css时，先把每一块的所有元素都列出来，比如：
+/*顶部搜索*/
+.jd_search{}
+.jd_search .jd_search_box{}
+.jd_search .jd_search_box .icon_logo{}
+.jd_search .jd_search_box .login{}
+.jd_search .jd_search_box form{}
+.jd_search .jd_search_box form .icon_search{}
+.jd_search .jd_search_box form input{}
